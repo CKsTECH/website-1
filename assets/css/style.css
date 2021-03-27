@@ -56,7 +56,7 @@ header > button:hover{
 /*WRAPPER*/
 .wrapper {
     background: url('../img/hero-bg-1.jpg') no-repeat center center / cover;
-    width: 100%;
+    width: 85%;
     display: block;
     position: relative;
     z-index: 1; 
@@ -66,8 +66,8 @@ header > button:hover{
     position: absolute;
     content: '';
     background-image: linear-gradient(to right, rgba(32, 40, 119, 0.95), rgba(55, 46, 149, 0.95), rgba(83, 49, 177, 0.90), rgba(114, 48, 205, 0.85), rgba(150, 41, 230, 0.95));
-    width: 100%;
-    height: 100%;
+    width: 90%;
+    height: 90%;
     top: 0;
     left: 0;
     z-index: -1;
