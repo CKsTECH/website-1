@@ -122,10 +122,10 @@ header > button:hover{
 }
 
 .btn-outline {
-    border-radius: 30px;
+    border-radius: 55px;
     color: transparent;
     border-color: transparent;
-    padding: 12px 30px;
+    padding: 9px 25px;
     font-weight: 700;
     cursor: pointer;
     outline: none;
@@ -152,6 +152,7 @@ header > button:hover{
     padding: 9px 25px;
     border: none;
     border-radius: 55px;
+    background-color: transparent;
 }
 
 .bg-twitter{
