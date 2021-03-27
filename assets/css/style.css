@@ -114,7 +114,7 @@ header > button:hover{
 .btn-outline {
     border-radius: 30px;
     color: transparent;
-    border-color: #ffffff;
+    border-color: transparent;
     padding: 12px 30px;
     font-weight: 700;
     cursor: pointer;
