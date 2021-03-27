@@ -139,9 +139,9 @@ header > button:hover{
 }
 
 .btn social{
-    padding: 9px 25px;
+    padding: 25px 25px;
     border: none;
-    border-radius: 55px;
+    border-radius: 30px;
 }
 
 .bg-twitter{
