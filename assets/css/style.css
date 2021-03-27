@@ -155,3 +155,7 @@ header > button:hover{
 .bg-blog{
     background-color: orangered;
 }
+
+.trans-image{
+    padding: -10px 0px
+}
