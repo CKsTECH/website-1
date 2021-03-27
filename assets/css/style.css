@@ -159,11 +159,12 @@ i.fa {
     justify-content: space-between;
 }
 
-.btn-social{
+.btn-social {
     padding: 9px 25px;
     border: none;
-    border-radius: 55px;
-    background-color: transparent;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
 }
 
 .bg-twitter{
