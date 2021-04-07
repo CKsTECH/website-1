@@ -157,11 +157,11 @@ header > button:hover{
 }
 
 .bg-telegram{
-    background-color: aqua;
+    background-color: transparent;
 }
 
 .bg-blog{
-    background-color: orangered;
+    background-color: transparent;
 }
 
 .trans-image{
